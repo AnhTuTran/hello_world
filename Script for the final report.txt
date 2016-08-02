@@ -1,0 +1,87 @@
+1
+Good afternoon everyone
+My name is Tu. I am from Video IP design group.
+
+2 Preface
+
+Firstly, I appreciate RVC company because of giving me an opportunity to attend this internship program
+Secondly, I would like to say thanks to my trainer and the whole Video IP Design Group
+, they have been always helping me since I got here 
+
+3 Agenda
+
+Here is the agenda for my presentation this afternoon
+Introduction
+Target and Plan
+Activities and status
+Difficulties and countermeasure
+Communication Chart
+Result
+Opinions to internship program
+
+
+4 Introduction
+
+as you know, my name is Tu, 
+My major is Computer Engineering and I am studying at HCMUT
+and my internship position is hardware
+
+5 Target 
+
+So after the internship what can i archive, what is my target ?
+Besides learning basic technical skills, i also need to improve my soft skills 
+and get used to working in professtional environment
+
+6 Plan 
+
+Internship program lasts 9 weeks from June thirteenth to August twelfth.
+The schedule on the screen shows that every week I have a task to finish
+From the easy one to the difficult one
+
+7 Activities and Status
+From task number 1 to number 5, 
+about Linux, SystemC, Video Codec, iVCP1 operation and TRF UT ENV , they are not really to difficult
+But the last one TRF UT Verification, it took me lots of time to find bugs - errors in source code
+
+8 Difficulties and Countermeasure
+During the internship, i have encountered 3 big difficulties
+Number one is SystemC, i know nothing about it 
+Number two is Video codec and number three is TRF UT verification because i am lack of knowledge and experience 
+
+Besides asking mentor for supporting, i also find more information on the Internet at home 
+and exchange information to another intern
+
+
+9 Communication Chart
+in communication chart What role am i playing ?
+
+With instructor
+I am following the instructions, doing exercises, attending weekly review and writing weekly report
+Instructor is providing document, lecturing, giving advices, correcting wrong information 
+
+With other interns
+i communicate With them to exchange information, divide tasks  
+
+
+10 Results
+
+Before the internship training
+I am Lack of experience about Linux and debugging
+Have no knowledge about video compression concept and SystemC
+Do not know how to make a formal report or document
+Never work in a real project before
+
+So what have i learn after the internship 
+I Have more experience about Linux and debugging
+Learn basic knowledge about video compression concept and SystemC
+Write better report and document
+Understand working flow and tasks in a real project 
+
+
+11 Opinions to internship program
+After the internship, i have some opinions want to say to make this program better
+I think that having a meeting to introduce groups in the department so interns can choose the one that suits them most
+Secondly, I would like the company to maintain this program
+12
+That 's all for presentation
+Thanks for listening
